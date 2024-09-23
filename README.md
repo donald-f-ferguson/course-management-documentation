@@ -41,3 +41,12 @@ into an overall system.
 - There are two backends-for-frontends that adapt the APIs to the specific users and roles.
 - There is a single page web application project that provides the user interface.
 
+__Note:__ These are the current repositories for random work that has been done. We need to align with the
+above classification and work efforts. This is mostly just been a random set of thoughts.
+- UI/UX: https://github.com/donald-f-ferguson/course-management-ui.git
+- Project/Teams: https://github.com/donald-f-ferguson/project-teams.git
+- Core Person Information: https://github.com/donald-f-ferguson/person-info.git
+- CourseWorks adaptor: https://github.com/donald-f-ferguson/courseworks-adaptor-service.git
+- Core course management: https://github.com/donald-f-ferguson/core-course-management.git
+- Coupon management: https://github.com/donald-f-ferguson/course-coupons.git
+
